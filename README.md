@@ -2,6 +2,8 @@
 
 After the best part of 5 years providing and developing cheats for private consumers we've gained a large amount of knowledge on features, exploits and general security practises within the game Rust, So im creating this repository to document knowledge and information on said topics. I have recently departed from the company i was developing the rust project for that gathered all of these statistics, that company is no longer active and has closed down, they have given full and extensive permission for me to document my knowledge gathered with them as long as i dont provide direct source code.
 
+This repo is always in development as theres alot to write up and im busy doing my certifications and working, i will update it more and more over time
+
 ## Cerberus
 
 #### What is it?
