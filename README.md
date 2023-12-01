@@ -35,7 +35,7 @@ The Cerberus Scores are automatically generated based on statistical data provid
 
 | Path | Values     | Description                | Ceberus Score               |
 | :-------- | :------- | :------------------------- | :------------------------- |
-| `BasePlayer->clientTickInterval` | `0.15f - 1.f` | Variable controls the delay in ms that player ticks are sent Ex. ViewAngle, Position and Player Flag updates. Modification allows for forgiveness in eye angle changes allowing you to shoot over buildings and around corners without moving, extending of Projectile->initialDistance with slower projectiles and much more, also allows for the effect of fakelag | CS: 71.83% (Dependent on Implementation) |
+| `BasePlayer->clientTickInterval` | `0.05f - 1.f` | Variable controls the delay in ms that player ticks are sent Ex. ViewAngle, Position and Player Flag updates. Modification allows for forgiveness in eye angle changes allowing you to shoot over buildings and around corners without moving, extending of Projectile->initialDistance with slower projectiles and much more, also allows for the effect of fakelag | CS: 71.83% (Dependent on Implementation) |
 
 ## PlayerEyes Variable Modifications
 
